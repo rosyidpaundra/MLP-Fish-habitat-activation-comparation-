@@ -4,6 +4,8 @@
 > `mlp_tanh.py` · `mlp_relu.py` · `mlp_sigmoid.py`
 
 ---
+<img width="594" height="630" alt="image" src="https://github.com/user-attachments/assets/1706430c-6ff6-4984-b679-144bc5fd7e64" />
+
 
 ## 📐 Arsitektur Umum
 
