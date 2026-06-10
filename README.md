@@ -3,8 +3,8 @@
 > Dokumentasi alur logika pemrograman untuk tiga skrip QGIS Custom Processing Toolbox:
 > `mlp_tanh.py` · `mlp_relu.py` · `mlp_sigmoid.py`
 
----
-<img width="594" height="630" alt="image" src="https://github.com/user-attachments/assets/1706430c-6ff6-4984-b679-144bc5fd7e64" />
+---<img width="594" height="629" alt="image" src="https://github.com/user-attachments/assets/bc1a727f-1f5b-460a-a71c-1c6467c5f74c" />
+
 
 
 ## 📐 Arsitektur Umum
