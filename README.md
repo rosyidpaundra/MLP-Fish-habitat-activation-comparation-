@@ -1,4 +1,4 @@
-# 🧠 Alur Logika Kode — MLP Activation Comparison Toolbox
+# MLP Activation Comparison Toolbox
 
 > Dokumentasi alur logika pemrograman untuk tiga skrip QGIS Custom Processing Toolbox:
 > `mlp_tanh.py` · `mlp_relu.py` · `mlp_sigmoid.py`
